@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a31d88c73adb546db8e68d8cf4e22221, type: 3}
   m_Name: TestCard
   m_EditorClassIdentifier: 
-  name: 
-  description: 
+  name: Tester
+  description: Makin things work
   artwork: {fileID: 0}
-  manaCost: 0
-  attack: 0
-  health: 0
+  manaCost: 1
+  attack: 2
+  health: 3
