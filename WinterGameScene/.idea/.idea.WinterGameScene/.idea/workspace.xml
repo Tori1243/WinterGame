@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e91cb2b-3e0c-4ae9-b673-318ae0e9f3c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WinterGameProject/.idea/.idea.WinterGameProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WinterGameScene/.idea/contentModel.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e91cb2b-3e0c-4ae9-b673-318ae0e9f3c6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +12,7 @@
     <session id="-1680592537">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -95,8 +93,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="714" />
-    <option name="y" value="128" />
+    <option name="x" value="708" />
+    <option name="y" value="114" />
     <option name="width" value="718" />
     <option name="height" value="802" />
   </component>
@@ -158,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576727138028</updated>
-      <workItem from="1576727141638" duration="600000" />
+      <workItem from="1576727141638" duration="1141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="600000" />
+    <option name="totallyTimeSpent" value="1141000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,7 +173,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="714" y="128" width="718" height="802" extended-state="0" />
+    <frame x="708" y="114" width="718" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
