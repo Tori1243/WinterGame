@@ -1,18 +1,29 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.Events;
 
-public class MovingController : MonoBehaviour
+public class MovingArrows : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public UnityEvent rightArrowDownEvent, leftArrowDownEvent, rightArrowUpEvent, leftArrowUpEvent;
 
-    // Update is called once per frame
-    void Update()
+    public void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            rightArrowDownEvent.Invoke();
+        }
+        else if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+            leftArrowDownEvent.Invoke();
+        }
+
+
+        if (Input.GetKeyUp(KeyCode.RightArrow))
+        {
+            rightArrowUpEvent.Invoke();
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftArrow))
+        {
+            leftArrowUpEvent.Invoke();
+        }
     }
 }
