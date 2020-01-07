@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class MovingArrows : MonoBehaviour
+public class MovingController : MonoBehaviour
 {
     public UnityEvent rightArrowDownEvent, leftArrowDownEvent, rightArrowUpEvent, leftArrowUpEvent;
 

@@ -5,6 +5,8 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
+          <e p="CharacterMover.cs" t="Include" />
+          <e p="Destroy.cs" t="Include" />
           <e p="MovingController.cs" t="Include" />
         </e>
       </e>
