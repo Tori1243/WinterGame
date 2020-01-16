@@ -12,7 +12,7 @@
     <session id="-1983878449">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -64,12 +64,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/scripts/Destroy.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding>
-                <marker date="1578411900574" expanded="true" signature="56:262" ph="{...}" />
-                <marker date="1578411900574" expanded="true" signature="128:260" ph="{...}" />
-                <marker date="1578411900574" expanded="true" signature="165:254" ph="{...}" />
+                <marker date="1578411957949" expanded="true" signature="56:210" ph="{...}" />
+                <marker date="1578411957949" expanded="true" signature="106:208" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -164,12 +163,12 @@
       <updated>1577428358304</updated>
       <workItem from="1577428364597" duration="39000" />
       <workItem from="1578361663654" duration="141000" />
-      <workItem from="1578409269848" duration="1988000" />
+      <workItem from="1578409269848" duration="2277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2168000" />
+    <option name="totallyTimeSpent" value="2457000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,12 +245,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/scripts/Destroy.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
-            <marker date="1578411900574" expanded="true" signature="56:262" ph="{...}" />
-            <marker date="1578411900574" expanded="true" signature="128:260" ph="{...}" />
-            <marker date="1578411900574" expanded="true" signature="165:254" ph="{...}" />
+            <marker date="1578411957949" expanded="true" signature="56:210" ph="{...}" />
+            <marker date="1578411957949" expanded="true" signature="106:208" ph="{...}" />
           </folding>
         </state>
       </provider>
